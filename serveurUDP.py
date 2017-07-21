@@ -4,7 +4,7 @@ import socket
 import json
 import requests
 import urllib
-UDP_IP = "192.168.1.252"
+UDP_IP = "127.0.0.1"
 UDP_PORT = 8888
 headers = {'content-type':'application/json','Authorization':'Basic a2VyaG91ZW50Om5heGl6aGU0'}
 
